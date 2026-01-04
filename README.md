@@ -1,6 +1,6 @@
 # 🍽️ Zomato EDA – Exploratory Data Analysis
 
-## 📌 Overview
+##  Overview
 This project performs **Exploratory Data Analysis (EDA)** on the Zomato dataset to understand restaurant distribution, ratings, country-wise usage, online delivery availability, and city-level trends.
 
 The focus of this notebook is **data understanding, cleaning, grouping, and visualization**, not machine learning or prediction.
